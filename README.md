@@ -35,11 +35,6 @@ Created a dynamic dashboard showing:
 Added interactive filters and slicers to allow deeper exploration of data.
 The dashboard provided clear visibility into business performance and key sales indicators.
 
-4. Forecasting by Python
-
-For the forecasting part, we used Python (Base environment) to predict future sales using historical data.
-Implemented time-series forecasting techniques to estimate upcoming revenue trends and seasonal demand.
-This step provided valuable insights for future planning and business strategy.
 
 🎯 Key Insights
 
@@ -53,7 +48,7 @@ Customer behavior analysis revealed retention opportunities.
 
 A PowerPoint presentation was created to summarize the entire process and findings.
 It included:
-The workflow from CSV → SQL → Power BI → Python
+The workflow from CSV → SQL → Power BI 
 Data insights and visual highlights
 Forecasting results and business recommendations
 
@@ -62,7 +57,6 @@ Forecasting results and business recommendations
 Tool	    Purpose
 MySQL  	  Data storage and querying
 Power BI	Dashboard creation and visualization
-Python	  Forecasting and predictive analysis
 CSV Files	Original data source
 
 🚀 How to Run
